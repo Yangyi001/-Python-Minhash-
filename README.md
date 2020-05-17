@@ -1,1 +1,1 @@
-# -Python-Minhash-
+采用**Minhash技术**，对两个文本数据集Amazon News和Google Report，在Google Report数据集中寻找到Amazon News每条记录的最高**Jaccard相似度**的记录，给出Amazon News数据集中每条记录在Google Report数据集中相似度最高的记录，作为匹配结果输出。  
